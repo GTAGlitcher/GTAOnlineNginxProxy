@@ -110,7 +110,7 @@
             ],
             "XP_MULTIPLIER": [
                 {
-                    "value": 75
+                    "value": 75000
                 }
             ],
             "CASH_MULTIPLIER": [
@@ -295,7 +295,7 @@
             ],
             "CRATE_DROP_STANDARD_MIN_FREQ": [
                 {
-                    "value": 35
+                    "value": 10
                 }
             ],
             "CRATE_DROP_STANDARD_MAX_FREQ": [
